@@ -5,32 +5,26 @@
 
 <p align="center">
   <h1>Hey there, I’m <a href="https://www.linkedin.com/in/yassine-bzd/?locale=en_US">Yassine Bouzidi</a> 👋</h1>
-  <p><em>Cybersecurity Solutions Administrator (Work-Study Program) ·  Student · </em></p>
+  <p><em>Cybersecurity Solutions Administrator (Work-Study Program) ·  Student at </strong> <a href="https://www.simplon.co/" target="_blank">Simplon · </em></p>
   <p>📅 <strong>Last updated:</strong> August 19, 2025</p>
-  <p> </strong> <a href="https://www.linkedin.com/in/yassine-bzd/?locale=en_US" target="_blank">Simplon</p>
 </p>
 
 ---
 ## 🚀 About Me
 
 <div align="center">
-<img  src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="250" alt="Coding GIF" style="z-index:99;"/>
+<img  src="https://media.assettype.com/analyticsinsight%2Fimport%2Fwp-content%2Fuploads%2F2022%2F05%2FWhy-cybersecurity-jobs-should-be-more-than-We-didnt-get-hacked.gif?w=1024&auto=format%2Ccompress&fit=max" width="400" alt="Coding GIF" style="z-index:99;"/>
 </div>
   <div align="left">
-    I am a Software Engineer skilled in React, Next.js, WordPress, PHP, and more. I have worked on projects that served thousands of users, built scalable applications, and continuously strive to improve my skills and contribute to impactful teams.
+    Currently enrolled in the "Cyber Solutions Administrator" training program at Simplon, I am specializing in implementing security solutions for IT systems and networks in both Cloud and hybrid environments. My program, which follows a rhythm of one week of training and three weeks in a company, allows me to develop concrete skills in infrastructure administration, incident management, and user awareness.
+
+I am looking for a work-study position to apply my technical skills and demonstrate my strong motivation, curiosity, and ability to work on concrete projects as part of a team. My goal is to actively contribute to the protection of data and infrastructure within an innovative company, leveraging my proficiency with tools like Microsoft Defender for Cloud and Azure Sentinel..
   </div>
 
 ## 🔧 My Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" alt="Next JS"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white" alt="Wordpress"/>
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white" alt="php"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=yellow" alt="Python"/>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git"/>
 </p>
 
