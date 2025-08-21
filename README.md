@@ -31,13 +31,13 @@ I am looking for a work-study position to apply my technical skills and demonstr
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousefdergham&layout=compact&theme=dark" alt="Top Languages"/>
+  <img src="" alt="Top Languages"/>
 </div>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge" alt="Profile Views"/>
+  <img src="" alt="Profile Views"/>
 </p>
 
 ---
@@ -53,16 +53,10 @@ I am looking for a work-study position to apply my technical skills and demonstr
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://yousefdergham.vercel.app/">
+  <a href="">
     <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://linkedin.com/in/yousefdergham">
+  <a href="https://www.linkedin.com/in/yassine-bzd/?locale=en_US">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://t.me/YousefMohamed01">
-    <img src="https://img.shields.io/badge/Telegram-0088CC?logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="https://www.buymeacoffee.com/yousefdergham">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee"/>
   </a>
 </p>
