@@ -5,7 +5,7 @@
 
 <p align="center">
   <h1>Hey there, I’m <a href="https://www.linkedin.com/in/yassine-bzd/?locale=en_US">Yassine Bouzidi</a> 👋</h1>
-  <p><em>Cybersecurity Solutions Administrator (Work-Study Program) ·  Student at </strong> <a href="https://www.simplon.co/" target="_blank">Simplon · </em></p>
+  <p><em>Cybersecurity Solutions Administrator·  Student at </strong> <a href="https://www.simplon.co/" target="_blank">Simplon·co </em></p>
   <p>📅 <strong>Last updated:</strong> August 19, 2025</p>
 </p>
 
