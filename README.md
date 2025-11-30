@@ -5,8 +5,7 @@
 
 <p align="center">
   <h1>Hey there, I’m <a href="https://www.linkedin.com/in/yassine-bzd/?locale=en_US">Yassine Bouzidi</a> 👋</h1>
-  <p><em>Cybersecurity Solutions Administrator·  Student at </strong> <a href="https://www.simplon.co/" target="_blank">Simplon·co </em></p>
-  <p>📅 <strong>Last updated:</strong> August 19, 2025</p>
+  <p><em>Cybersecurity Solutions Administrator·  Student at </strong> <a href="https://www.simplon.co/" target="_blank"> Simplon·co </em></p>
 </p>
 
 ---
@@ -18,7 +17,7 @@
   <div align="left">
     Currently enrolled in the "Cyber Solutions Administrator" training program at Simplon, I am specializing in implementing security solutions for IT systems and networks in both Cloud and hybrid environments. My program, which follows a rhythm of one week of training and three weeks in a company, allows me to develop concrete skills in infrastructure administration, incident management, and user awareness.
 
-I am looking for a work-study position to apply my technical skills and demonstrate my strong motivation, curiosity, and ability to work on concrete projects as part of a team. My goal is to actively contribute to the protection of data and infrastructure within an innovative company, leveraging my proficiency with tools like Microsoft Defender for Cloud and Azure Sentinel..
+I am looking for a work-study position to apply my technical skills and demonstrate my strong motivation, curiosity, and ability to work on concrete projects as part of a team. My goal is to actively contribute to the protection of data and infrastructure within an innovative company.
   </div>
 
 ## 🔧 My Tech Stack
@@ -28,29 +27,9 @@ I am looking for a work-study position to apply my technical skills and demonstr
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git"/>
 </p>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="" alt="Top Languages"/>
-</div>
-
 ---
 
-<p align="center">
-  <img src="" alt="Profile Views"/>
-</p>
-
----
-
-## 🎯 LeetCode Heatmap
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/yousefmohameddergham?theme=catppuccinMocha&font=Varta&ext=heatmap" alt="LeetCode Stats"/>
-</p>
-
----
-
-## 🔗 Connect with Me
+## 🔗 Contact
 
 <p align="center">
   <a href="">
